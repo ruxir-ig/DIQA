@@ -21,7 +21,6 @@ dependencies = [
     "xgboost",
     "pyiqa",
     "tqdm",
-    "scipy",
 ]
 
 [build-system]
